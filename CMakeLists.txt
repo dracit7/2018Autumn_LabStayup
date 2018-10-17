@@ -1,0 +1,5 @@
+PROJECT (STAYUP)
+
+SET(SRC_LIST main.c library.h)
+
+ADD_EXECUTABLE(HackIn ${SRC_LIST})
